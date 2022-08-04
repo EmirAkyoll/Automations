@@ -1,0 +1,16 @@
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\bin\Debug\Çamaşırhane_Otomasyonu.exe.config
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\bin\Debug\Çamaşırhane_Otomasyonu.exe
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\bin\Debug\Çamaşırhane_Otomasyonu.pdb
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Properties.Resources.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.exe
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.pdb
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.AnaForm.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Form_Idare_Kayitlar.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Form_Idareci_Paneli.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Form_Idare_Idareciler.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Form_Idare_Ogrenciler.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Form_Idare_Personeller.resources
+C:\Users\Emir Akyoll\Desktop\Çamaşırhane_Otomasyonu\Çamaşırhane_Otomasyonu\obj\Debug\Çamaşırhane_Otomasyonu.Form_Personel_Paneli.resources
