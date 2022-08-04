@@ -1,0 +1,12 @@
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\bin\Debug\Personel_Kayıt_Otomasyonu.exe.config
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\bin\Debug\Personel_Kayıt_Otomasyonu.exe
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\bin\Debug\Personel_Kayıt_Otomasyonu.pdb
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.Properties.Resources.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.exe
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.pdb
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.frmAnaForm.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.frmHakkımızda.resources
+C:\Users\Emir Akyoll\Desktop\Personel_Kayıt_Otomasyonu\Personel_Kayıt_Otomasyonu\obj\Debug\Personel_Kayıt_Otomasyonu.frmGrafikler.resources
